@@ -1,6 +1,6 @@
 # Academic Calculators
 
-This project provides a set of academic calculators to help students calculate their GPA, minimum required grades, and Erasmus eligibility scores. The calculators are built using HTML, CSS, and JavaScript, and they utilize Bootstrap for styling and modals.
+This project provides a set of academic calculators to help students calculate their GPA, minimum required grades, and Erasmus eligibility scores. The calculators are built using HTML, CSS, and JavaScript, and they utilize Bootstrap for styling and modals. This project was made by a group.
 
 ## Project Structure
 
